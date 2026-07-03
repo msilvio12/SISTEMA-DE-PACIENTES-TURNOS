@@ -1,0 +1,8 @@
+{
+  "name": "turnos-consultorio",
+  "version": "1.0.0",
+  "description": "Turnero de pacientes con Netlify Functions + Netlify Blobs",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
