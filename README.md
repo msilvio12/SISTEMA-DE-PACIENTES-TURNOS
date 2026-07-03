@@ -40,13 +40,13 @@ Diseño responsive, accesible (foco visible, aria-label, prefers-reduced-motion)
 *ESTRUCTURA DEL PROYECTO
 
 turnos-app/
-├── netlify.toml                  # Configuración de build y funciones
-├── package.json                  # Dependencia: @netlify/blobs
+├── netlify.toml                  
+├── package.json                  
 ├── README.md
 ├── netlify/
 │   └── functions/
-│       └── turnos.js             # API REST: alta, listado, edición y borrado de turnos
+│       └── turnos.js             
 └── public/
-    ├── index.html                # Formulario + agenda
-    ├── styles.css                # Estilos y sistema de diseño
-    └── app.js                    # Lógica de UI, validación y consumo de la API
+    ├── index.html                
+    ├── styles.css               
+    └── app.js                   
